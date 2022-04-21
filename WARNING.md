@@ -1,4 +1,4 @@
-# Asteroid Dodge v1.6
+# Asteroid Dodge v2.9.5
 WARNING:
 do NOT download random files from the internet.
 download them ONLY if they can be trusted.
